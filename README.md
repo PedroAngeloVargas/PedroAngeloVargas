@@ -1,16 +1,60 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header"/>
 
-<!--
-**PedroAngeloVargas/PedroAngeloVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Bem-vindo ao meu GitHub! Meu nome é Pedro Vargas. 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/PedroAngeloVargas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6e40c9&center=true&vCenter=true&width=920&lines=DevOps+Lover;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Python+%7C+MySQL+%7C+AWS+%7C+AZURE+%7C+OCI+%7C+CI-CD;Always+learning+something+new..." />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Atualmente estou cursando Sistemas de Informação (UEMG - Passos).</br>
+📊 Foco em DevOps, Segurança e Cloud.</br>
+📚 Apaixonado por novas tecnologias e muita vontade de aprender cada vez mais!</br>
+🎯 Foco total!
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,mysql,postgres,docker,kubernetes,terraform,aws,azure,githubactions" />
+</div>
+
+---
+
+## 🏅 Certificações
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/PedroAngeloVargas/PedroAngeloVargas/main/OCI25FNDCFA.jpeg" alt="Oracle Cloud Infrastructure Foundations Associate 2025" width="400px"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroAngeloVargas&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroAngeloVargas&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## 📬 Contato
+
+📧 pedroangelovargas@outlook.com</br>
+🔗 [LinkedIn - PedroAngeloVargas](https://www.linkedin.com/in/pedro-angelo-tellaroli-vargas-9b1298293/)
+
+---
+
+## 🔥 Visitantes
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{PedroAngeloVargas}/count.svg" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer"/>
