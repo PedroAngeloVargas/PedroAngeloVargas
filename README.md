@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroAngeloVargas&show_icons=true&theme=radical" alt="stats" width="450" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAngeloVargas&layout=compact&theme=radical" alt="top langs" width="350" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAngeloVargas&layout=compact&theme=radical" alt="top langs" width="400" height="350"/>
 </p>
 
 
