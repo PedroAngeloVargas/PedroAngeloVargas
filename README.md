@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=%23B22222&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=firebrick&height=120&section=header"/>
 
 <h1 align="center">Bem-vindo ao meu GitHub! Meu nome é Pedro Vargas. 👋</h1>
 
@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAngeloVargas&layout=compact&theme=radical" alt="top langs" width="421" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAngeloVargas&layout=compact&theme=radical" alt="top langs" width="520" height="300"/>
 </p>
 
 ---
@@ -62,6 +62,7 @@
   <img src="https://profile-counter.glitch.me/{PedroAngeloVargas}/count.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=%23B22222&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=firebrick&height=120&section=footer"/>
+
 
 
