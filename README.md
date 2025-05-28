@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=firebrick&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header"/>
 
 <h1 align="center">Bem-vindo ao meu GitHub! Meu nome é Pedro Vargas. 👋</h1>
 
@@ -62,7 +62,8 @@
   <img src="https://profile-counter.glitch.me/{PedroAngeloVargas}/count.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=firebrick&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
+
 
 
 
