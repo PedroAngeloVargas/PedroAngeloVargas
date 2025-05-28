@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAngeloVargas&layout=compact&theme=radical" alt="top langs" width="520" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAngeloVargas&layout=compact&theme=radical" alt="top langs" width="420" height="200"/>
 </p>
 
 ---
