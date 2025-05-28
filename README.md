@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/PedroAngeloVargas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6e40c9&center=true&vCenter=true&width=920&lines=DevOps+Lover;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Python+%7C+MySQL+%7C+AWS+%7C+AZURE+%7C+OCI+%7C+CI-CD;Always+learning+something+new..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B22222&center=true&vCenter=true&width=920&lines=DevOps+Lover;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Python+%7C+MySQL+%7C+AWS+%7C+AZURE+%7C+OCI+%7C+CI-CD;Always+learning+something+new..." />
   </a>
 </p>
 
@@ -58,3 +58,4 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#B22222&height=120&section=footer"/>
+
