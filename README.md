@@ -59,7 +59,7 @@
 ## 🔥 Visitantes
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPedroAngeloVargas&count_bg=%23B22222&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITAS&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPedroAngeloVargas&count_bg=%23B22222&title_bg=%23000000&title=VISITAS"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
