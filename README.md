@@ -59,7 +59,7 @@
 ## 🔥 Visitantes
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPedroAngeloVargas&count_bg=%23B22222&title_bg=%23000000&title=VISITAS"/>
+  <img src="https://visitors.jwenjian.io/v?path=https://github.com/PedroAngeloVargas" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
