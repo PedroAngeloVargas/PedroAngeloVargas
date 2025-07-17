@@ -59,7 +59,7 @@
 ## 🔥 Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{PedroAngeloVargas}/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=PedroAngeloVargas&label=VISITANTES&color=B22222&style=flat" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
