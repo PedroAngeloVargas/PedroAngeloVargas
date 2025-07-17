@@ -59,7 +59,7 @@
 ## 🔥 Visitantes
 
 <p align="center">
-  <img src="https://github.com/PedroAngeloVargas/PedroAngeloVargas/blob/main/github-metrics.svg" alt="Métricas do meu GitHub" />
+  <img src="https://raw.githubusercontent.com/PedroAngeloVargas/PedroAngeloVargas/main/github-metrics.svg" alt="Métricas do meu GitHub" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
